@@ -1,0 +1,1 @@
+{"name":"Local: reverse_linked_list","url":"f:\\Phitron\\Contest\\reverse_linked_list.cpp","tests":[{"id":1767521471436,"input":"10 20 30 -1","output":"30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\Contest\\reverse_linked_list.cpp","group":"local","local":true}

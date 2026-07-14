@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+int main()
+{
+    cout << "Hany bany I Love you Phaki";
+
+    return 0;
+}
+
+__
