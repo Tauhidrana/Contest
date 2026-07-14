@@ -18,6 +18,9 @@
 #include <complex>
 #include <valarray>
 
+using namespace std;
+using ll = long long;
+
 int GCD(int a, int b)
 {
     while (b != 0)
@@ -29,8 +32,6 @@ int GCD(int a, int b)
     return a;
 }
 
-using namespace std;
-using ll = long long;
 int main()
 {
     ios::sync_with_stdio(false);
