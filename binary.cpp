@@ -24,18 +24,14 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
+    
+    
 
-    int t;
-    cin >> t;
 
-    while (t--)
-    {
-        ll x, y;
-        cin >> x >> y;
 
-        ll ans = y + (y - 1) / (x - 1);
-        cout << ans << endl;
-    }
+
+
+
 
     return 0;
 }
