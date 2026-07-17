@@ -1,0 +1,42 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 20,
+    "editor.fontWeight": "600",
+    "editor.lineHeight": 32,
+    "editor.letterSpacing": 0.5,
+
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderLineHighlight": "all",
+
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorWidth": 3,
+
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+
+    "editor.semanticHighlighting.enabled": true,
+
+    "editor.wordWrap": "off",
+
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 18,
+
+    "window.zoomLevel": 1,
+
+    "explorer.compactFolders": false,
+
+    "breadcrumbs.enabled": true,
+
+    "workbench.startupEditor": "none",
+
+    "editor.scrollBeyondLastLine": false,
+
+    "files.autoSave": "afterDelay",
+
+    "editor.mouseWheelZoom": true
+}
