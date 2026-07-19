@@ -1,0 +1,1 @@
+{"name":"Local: dd","url":"/Applications/Phitron/Contest/dd.cpp","tests":[{"id":1784388488222,"input":"3\n3 0\n2 3 4\n2 0\n1000000000 999999999\n6 0\n2 5 3 4 1 6\n","output":"0\n1\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Applications/Phitron/Contest/dd.cpp","group":"local","local":true}

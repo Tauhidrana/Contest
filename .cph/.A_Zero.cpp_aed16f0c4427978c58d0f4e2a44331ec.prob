@@ -1,0 +1,1 @@
+{"name":"Local: A_Zero","url":"/Applications/Phitron/Contest/A_Zero.cpp","tests":[{"id":1784385598263,"input":"5\n1\n-1\n2\n1 -1\n2\n1 1\n5\n1 -1 1 -1 1\n6\n-1 1 -1 -1 -1 -1","output":"NO\nYES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Applications/Phitron/Contest/A_Zero.cpp","group":"local","local":true}
