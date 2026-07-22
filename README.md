@@ -1,4 +1,4 @@
-# Phitron Contest Solutions
+#  Contest Solutions
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=cplusplus)](https://isocpp.org/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-tauhidrana.exe-0052B5?logo=codeforces)](https://codeforces.com/profile/tauhidrana.exe)
